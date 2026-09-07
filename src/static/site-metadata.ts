@@ -23,17 +23,18 @@ const data: ISiteMetadataResult = {
       name: 'Maps',
       url: '/map',
     },
-    {
-      name: 'Hiking',
-      url: '/hiking',
-    },
+    // Hiking subpage temporarily disabled; restore alongside its route in main.tsx.
+    // {
+    //   name: 'Hiking',
+    //   url: '/hiking',
+    // },
     {
       name: 'Tracks',
       url: '/tracks',
     },
     {
       name: 'About',
-      url: 'https://github.com/yinan-c',
+      url: 'https://yinan.me',
     },
   ],
 };
