@@ -11,7 +11,7 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Runninan',
-  siteUrl: 'https://yinan.me/running_page',
+  siteUrl: 'https://yinan.me/running',
   logo: 'https://github.com/yinan-c.png',
   description: '',
   navLinks: [
